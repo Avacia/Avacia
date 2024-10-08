@@ -1,1 +1,31 @@
 
+# What's up! I'm Yen 👋
+
+I'm a [**full stack developer**](https://www.linkedin.com/in/yen-wang-470a33305/) from New Zealand who completed a boot camp at **Mission Ready HQ**.
+
+I've worked with:
+
+- JavaScript
+- React
+- Node.js / Express.js
+- Python
+- MySQL
+- MongoDB
+- Git
+- Docker
+- RESTful APIs
+- Jira
+- CLI (Command Line Interface)
+
+For my previous projects, I've explored a wide range of technologies, and now I'm moving on to explore a new field: **Unity and C#**.
+
+My long-term goal is to integrate game development with AI to innovate and address common challenges in the industry.
+
+You can find me on:
+
+- **GitHub**: [@Yen](https://github.com/Avacia)
+- **LinkedIn**: [Yen Wang](https://www.linkedin.com/in/yen-wang-470a33305/)
+
+Also, check out my personal website:
+
+- **My Website**: [Yen Online Portfolio](https://yen-online-portfolio.netlify.app/)
