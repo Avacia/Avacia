@@ -24,7 +24,8 @@ My long-term goal is to specialize in a technology stack that includes JavaScrip
 You can find me on:
 
 - **GitHub**: [@Yen](https://github.com/Avacia)
-- **LinkedIn**: [Yen Wang](https://www.linkedin.com/in/yen-wang-470a33305/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/yen-wang-470a33305/)
+- **Seek**: [Seek](https://www.seek.co.nz/profile/yen-wang-x7yqVDPcGx)
 
 Also, check out my personal website:
 
