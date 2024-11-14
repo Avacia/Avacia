@@ -19,7 +19,7 @@ I've worked with:
 
 For my previous projects, I've explored a wide range of technologies, and now I'm moving on to explore a new field: **Unity and C#**.
 
-My long-term goal is to integrate game development with AI to innovate and address common challenges in the industry.
+My long-term goal is to specialize in a technology stack that includes JavaScript, TypeScript, and Python.
 
 You can find me on:
 
