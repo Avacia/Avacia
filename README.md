@@ -27,7 +27,3 @@ You can find me on:
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/yen-wang-470a33305/)
 - **Seek**: [Seek](https://www.seek.co.nz/profile/yen-wang-x7yqVDPcGx)
 - **BrainTrust**: [BrainTrust](https://app.usebraintrust.com/talent/1319971/)
-
-Also, check out my personal website:
-
-- **My Website**: [Yen Online Portfolio](https://yen-online-portfolio.netlify.app/)
